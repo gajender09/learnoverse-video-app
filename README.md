@@ -6,7 +6,7 @@ A full-stack project with:
 * **YouTube Data API v3**: Fetches live metadata (title, channel, thumbnail, duration) for stored video IDs.
 
 ## 🎥 See It In Action
-- <a href="https://drive.google.com/file/d/1F6GG1A6WvFQgIXjciTCsaWSbO9AdSBHZ/view?usp=sharing" target="_blank">Watch Screen Recording →</a>
+- <a href="https://drive.google.com/file/d/1F6GG1A6WvFQgIXjciTCsaWSbO9AdSBHZ/view?usp=sharing" target="_blank">Watch Video </a>
 
 ## ⚙️ How It Works
 
